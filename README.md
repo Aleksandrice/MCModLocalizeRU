@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 MCModLocalizeRU — это простое веб-приложение, которое переводит JSON-файлы с английского на русский язык с использованием Google Translate API. Приложение предназначено для помощи разработчикам модов Minecraft и других пользователей, которым нужно локализовать свои JSON-файлы.
+![IMG_20250131_041051](https://github.com/user-attachments/assets/a6b1bc7b-59ef-4057-8cf8-abe1131b03e5)
+
 
 ## Возможности
 
