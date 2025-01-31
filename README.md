@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+![96845014-2b21-43a6-b9a0-f1dfe462824c](https://github.com/user-attachments/assets/9ac1197d-36fc-4185-836f-971dc1dd2af5)
+
+
 ### JSON Localization App — это простое веб-приложение, которое переводит JSON-файлы локализации модов для игры Minecraft с английского на русский язык с использованием Google Translate API. Приложение предназначено для помощи разработчикам модов Minecraft и других пользователей, которым нужно локализовать свои JSON-файлы.
 #### Данный инструмент не ломает ключи, но рекомендую делать резервные копии файлов локализации.
 
