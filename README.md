@@ -421,3 +421,5 @@ pyinstaller --onefile --add-data "templates:templates" app.py  # На macOS/Linu
 ## Спасибо за использование MCModLocalizeRU!
 
 ### Благодарю Qwen2.5-Max от Alibaba за помощь в создании этого инструмента который облегчил мне работу по русифицированию модов для Minecraft.
+![ccba8df8-9dda-4d99-886c-70ed1a001911](https://github.com/user-attachments/assets/42251edc-412a-40f3-bb58-d2f5ed591715)
+
